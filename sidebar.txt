@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[max:home|Door43 (max)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-max|d43-max repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-max/archive/master.zip|d43-max.zip]]
+
+**Recent Changes**
+{{changes>ns = max}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/max|Ethnologue data]]
+
